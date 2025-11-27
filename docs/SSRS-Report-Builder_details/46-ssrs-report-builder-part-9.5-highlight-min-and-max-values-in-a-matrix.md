@@ -26,8 +26,4 @@ Troubleshooting
 
 # SSRS Report Builder Part 9.5 - Highlight Min and Max Values in a Matrix
 
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

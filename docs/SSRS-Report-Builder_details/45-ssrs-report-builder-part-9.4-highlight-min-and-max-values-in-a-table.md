@@ -23,8 +23,4 @@ Troubleshooting
 
 # SSRS Report Builder Part 9.4 - Highlight Min and Max Values in a Table
 
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

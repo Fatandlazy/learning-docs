@@ -1,6 +1,6 @@
 ﻿# SSRS Report Builder Part 10.4 — Optional Report Parameters
 
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>
 
 Making parameters optional allows users to run the report without selecting a value or to use a special behaviour (e.g., show all values). SSRS supports optional parameters by allowing `Null` or using multi-value parameters with an "All" option.
 
@@ -25,6 +25,4 @@ Examples
 Troubleshooting
 - When `Allow null` is set, ensure parameter type matches and report server is not enforcing default empty values via URL or subscription.
 
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

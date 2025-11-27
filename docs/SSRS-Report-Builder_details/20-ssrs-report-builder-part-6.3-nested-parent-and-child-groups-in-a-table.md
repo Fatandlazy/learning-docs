@@ -51,10 +51,4 @@ Example: Category → Subcategory layout
 - Child subtotal (footer): `=Sum(Fields!LineTotal.Value, "SubcategoryGroup")`
 - Parent subtotal (footer): `=Sum(Fields!LineTotal.Value, "CategoryGroup")`
 
-# SSRS Report Builder Part 6.3 - Nested Parent and Child Groups in a Table
-
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

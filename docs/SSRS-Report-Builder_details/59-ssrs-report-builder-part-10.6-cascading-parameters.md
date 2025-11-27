@@ -1,6 +1,6 @@
 # SSRS Report Builder Part 10.6 — Cascading (Parent–Child) Parameters
 
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>
 
 Cascading parameters (also called dependent parameters) let you filter parameter value lists based on the selection of another parameter. Common example: choose Country → filtered list of States → filtered list of Cities.
 
@@ -38,4 +38,4 @@ Cascading parameters (also called dependent parameters) let you filter parameter
 - Child parameter shows empty list: confirm that the parent parameter has a default or selected value and that the child dataset uses the correct parameter name.
 - Values not updating: check that the dataset query parameter is correctly mapped to the report parameter in the dataset properties UI.
 
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

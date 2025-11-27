@@ -1,6 +1,6 @@
 ﻿# SSRS Report Builder Part 10.2 — Query Parameters and Filters
 
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>
 
 This page explains how to pass parameters to dataset queries and how query-side filtering compares to report/region filters. For period-over-period comparisons (previous period, percent change), it's often best to calculate in the query.
 
@@ -34,8 +34,4 @@ Troubleshooting
 
 # SSRS Report Builder Part 10.2 - Query Parameters and Filters
 
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

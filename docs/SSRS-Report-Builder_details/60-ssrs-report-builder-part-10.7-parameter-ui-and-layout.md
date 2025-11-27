@@ -1,6 +1,6 @@
 # SSRS Report Builder Part 10.7 — Parameter UI, Layout and Visibility
 
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>
 
 Well-designed parameter UI improves usability. This page covers arranging parameters, group labels, tooltips, and accessibility considerations.
 
@@ -33,4 +33,4 @@ Well-designed parameter UI improves usability. This page covers arranging parame
 - Parameter order changed unexpectedly: open the parameter dialog and reorder or recreate parameters to ensure evaluation order.
 - Users report slow parameter loading: check whether parameter datasets return large result sets — add filters or search functionality.
 
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

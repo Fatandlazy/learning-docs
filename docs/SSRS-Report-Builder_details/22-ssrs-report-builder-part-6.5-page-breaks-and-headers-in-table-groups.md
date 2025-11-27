@@ -32,10 +32,4 @@ Troubleshooting
 - Header not repeating: verify the header row is a static row (use Advanced Mode) and `RepeatOnNewPage` is set.
 - Unexpected blank pages: check page break settings on groups and the overall report page size + margins.
 
-# SSRS Report Builder Part 6.5 - Page Breaks and Headers in Table Groups
-
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

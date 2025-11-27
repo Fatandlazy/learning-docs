@@ -1,6 +1,6 @@
 ﻿# SSRS Report Builder Part 5.1 - Basic Tables
 
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>
 
 Purpose: This page explains how to create and format basic tables (Tablix) in Report Builder: adding datasets, inserting tables, headers and footers, totals, grouping, sorting, and helpful layout tips.
 
@@ -57,11 +57,4 @@ Purpose: This page explains how to create and format basic tables (Tablix) in Re
 - Insert Table with 4 columns and map fields accordingly.
 - Add a group on `CustomerName` with a group footer showing `=Sum(Fields!Amount.Value)`.
 
-Would you like screenshots added to this page, or should I continue to file `13-ssrs-report-builder-part-52-sorting-and-interactive-sorting-in-tables.md`? Let me know which.
-# SSRS Report Builder Part 5.1 - Basic Tables
-
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>
