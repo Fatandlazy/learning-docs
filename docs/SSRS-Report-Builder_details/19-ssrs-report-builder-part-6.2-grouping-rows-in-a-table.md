@@ -48,10 +48,4 @@ Troubleshooting
 - If aggregates return unexpected values, check you are using the correct scope name.
 - If toggles don't work, verify the toggle item is in the same parent scope and the target row/column is hidden by default.
 
-# SSRS Report Builder Part 6.2 - Grouping Rows in a Table
-
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

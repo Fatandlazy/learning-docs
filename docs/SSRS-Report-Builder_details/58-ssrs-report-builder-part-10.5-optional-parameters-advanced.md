@@ -1,6 +1,6 @@
 # SSRS Report Builder Part 10.5 — Optional Parameters (Advanced)
 
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>
 
 This page expands on optional-parameter patterns: implementing an `All` option, expression-based defaults, hidden/internal parameters, and correctly handling empty multi-value inputs.
 
@@ -54,4 +54,4 @@ This page expands on optional-parameter patterns: implementing an `All` option, 
 - If your report shows no rows when you expect all rows: check whether the parameter default is actually `NULL`, empty string, or a sentinel value—each requires different handling in SQL or expressions.
 - If `Allow null` does not appear to work, verify dataset query parameter types and that the Report Server isn't injecting defaults via URL or subscriptions.
 
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

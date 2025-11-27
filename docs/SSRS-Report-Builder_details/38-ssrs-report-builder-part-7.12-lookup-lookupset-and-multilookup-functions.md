@@ -43,8 +43,4 @@ Troubleshooting
 
 # SSRS Report Builder Part 7.12 - Lookup, LookupSet and MultiLookup Functions
 
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

@@ -47,11 +47,4 @@ Purpose: Explain the difference between dataset-level/static sorting and report-
 - Add interactive sorting to an `Amount` column header:
   - `Text Box Properties` → `Interactive Sorting` → Enable → Sort by `=Fields!Amount.Value` → Scope: dataset.
 
-Would you like a version with screenshots or should I continue to file `14-ssrs-report-builder-part-53-table-headers-footers-and-totals.md`? Tell me which.
-# SSRS Report Builder Part 5.2 - Sorting and Interactive Sorting in Tables
-
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

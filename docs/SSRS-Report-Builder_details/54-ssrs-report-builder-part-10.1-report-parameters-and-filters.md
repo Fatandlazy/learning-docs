@@ -1,6 +1,6 @@
 ﻿# SSRS Report Builder Part 10.1 — Report Parameters and Filters (Overview)
 
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>
 
 This page provides an overview of report parameters and how they differ from filters. Parameters are inputs provided by users (or defaulted); filters are applied either at the dataset/query level or at the report region level to restrict rows.
 
@@ -25,8 +25,4 @@ Troubleshooting
 
 # SSRS Report Builder Part 10.1 - Report Parameters and Filters
 
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

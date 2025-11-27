@@ -35,8 +35,4 @@ Best practices
 
 # SSRS Report Builder Part 7.3 - Divide by Zero Errors
 
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

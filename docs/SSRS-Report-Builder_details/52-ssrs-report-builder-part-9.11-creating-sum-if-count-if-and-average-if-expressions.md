@@ -28,6 +28,4 @@ Examples
 - Sum of sales for current category group:
   `=Sum(IIF(Fields!Category.Value = Fields!Category.Value, Fields!Sales.Value, 0), "CategoryGroup")`
 
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

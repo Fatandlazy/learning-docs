@@ -26,8 +26,4 @@ Troubleshooting
 
 # SSRS Report Builder Part 7.4 - And, Or, AndAlso, OrElse, Xor and Not
 
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

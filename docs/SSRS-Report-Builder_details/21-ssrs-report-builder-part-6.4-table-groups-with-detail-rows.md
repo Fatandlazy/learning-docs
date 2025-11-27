@@ -36,10 +36,4 @@ Common mistakes
 - Placing totals in the wrong row: totals for a group must be in the group footer (or header), not the detail row.
 - Using the wrong scope: when you omit the scope parameter the aggregate may target the dataset or a different scope.
 
-# SSRS Report Builder Part 6.4 - Table Groups with Detail Rows
-
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

@@ -24,10 +24,4 @@ Common issues
 Example: hide detail rows by default
 - Set detail row `Visibility` to Hidden and configure toggle to the parent header textbox.
 
-# SSRS Report Builder Part 6.6 - Collapsible and Expandable Table Groups
-
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

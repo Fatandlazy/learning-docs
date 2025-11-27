@@ -54,11 +54,4 @@ Purpose: Explain how to add and configure table headers, footers, group subtotal
 - Keep page header for report-level info and use table headers for column titles.
 - Document group names and scopes when building complex tablixes to avoid expression mistakes.
 
-Would you like me to add annotated screenshots for headers/footers and running totals, or continue to the next file? Tell me which and I'll proceed.
-# SSRS Report Builder Part 5.3 - Table Headers, Footers and Totals
-
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

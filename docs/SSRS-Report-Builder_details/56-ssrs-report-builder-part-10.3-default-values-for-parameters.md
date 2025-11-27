@@ -1,6 +1,6 @@
 ﻿# SSRS Report Builder Part 10.3 — Default Values for Parameters
 
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>
 
 This page explains how to set default values for report parameters, including static defaults, dataset-driven defaults, and expressions (for example, default to today or the first day of the month).
 
@@ -33,6 +33,4 @@ Troubleshooting
 - Type mismatch errors: ensure the dataset field types match the parameter type (date, integer, string).
 - No default appearing: check the dataset executes successfully and returns the expected values.
 
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

@@ -66,10 +66,4 @@ Troubleshooting
 - If the Query Builder shows an error about non-aggregated columns, ensure all non-aggregated selected columns appear in the GROUP BY clause or are wrapped in aggregates.
 - If results are unexpectedly large: check WHERE filters and parameter binding.
 
-# SSRS Report Builder Part 6.1 - Grouping Rows in the Query Builder
-
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

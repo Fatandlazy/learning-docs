@@ -87,11 +87,4 @@ JOIN @CategoryIDs c ON o.CategoryID = c.Id;
 - For user multi-selects, use TVPs or stored procedures instead of building OR lists in SQL dynamically.
 - When forced to use report-level OR filters, keep the dataset small and test report server resource usage.
 
-Would you like me to continue to `18-ssrs-report-builder-part-61-grouping-rows-in-the-query-builder.md` or add annotated examples/screenshots for this page? Choose one and I'll proceed.
-# SSRS Report Builder Part 5.6 - Or Filters in Tables and Datasets
-
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>

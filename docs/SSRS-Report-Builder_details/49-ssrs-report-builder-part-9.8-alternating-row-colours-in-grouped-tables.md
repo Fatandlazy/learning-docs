@@ -17,8 +17,4 @@ Troubleshooting
 
 # SSRS Report Builder Part 9.8 - Alternating Row Colours in Grouped Tables
 
-TODO: Add detail notes for this tutorial.
-
-Back to playlist
-
-Back to playlist
+<a href="../SSRS Report Builder.md" style="color:#FFA239">Back to playlist</a>
