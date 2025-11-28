@@ -1,4 +1,5 @@
 # Learning Documentation
 
 ## Report Builder
-<a href="docs/SSRS%20Report%20Builder.md">SSRS Report Builder</a>
+- [SSRS Report Builder](docs/SSRS%20Report%20Builder.md)
+- [SSRS Tutorial](docs/SSRS%20Tutorial.md)
