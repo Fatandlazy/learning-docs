@@ -306,7 +306,6 @@ try {
             Set-Content -Path $detailFullPath -Value $body -Encoding UTF8
             Write-Output "Created/Updated detail: $detailRelPath"
 
-            # Format: `1. <a href="..." style="color:#FFA239">View detail | </a> [Title](https://youtu.be/...)`
             $line = '{0}. <a href="{3}" style="color:#FFA239">View detail | </a> [{1}]({2})' -f $num, $it.Title, $it.Url, $detailRelPath
             [void]$sb.AppendLine($line)
         }
